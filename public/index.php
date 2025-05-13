@@ -21,4 +21,5 @@ foreach($files as $file){
 
 $totals = calculateTotals($transactions);
 
+
 require VIEWS_PATH . 'transactions.php';
